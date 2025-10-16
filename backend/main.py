@@ -1,4 +1,3 @@
-# backend/main.py
 from fastapi import FastAPI
 from app.api import clients, ventes
 
